@@ -19,7 +19,7 @@ public:
 		std::cout << "After swapping, n=" << n << std::endl;
     }
 private:
-    void Swap(short n, Same)
+    void Swap(short& n, Same)
     {
 
     }
